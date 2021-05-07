@@ -1,6 +1,6 @@
 ## Getting Started with Create React App
 
-![Gif]("https://imgur.com/LDUs8kJ")
+![](http://i.imgur.com/LDUs8kJ.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
