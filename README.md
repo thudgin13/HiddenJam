@@ -1,5 +1,6 @@
 ## Getting Started with Create React App
-<img src="https://imgur.com/LDUs8kJ.gif" alt="walkthrough gif" width="500" height="300" />
+
+![Gif]("https://imgur.com/LDUs8kJ")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
