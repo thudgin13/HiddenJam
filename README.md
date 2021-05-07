@@ -1,6 +1,6 @@
 ## Getting Started with Create React App
 
-![](http://i.imgur.com/LDUs8kJ.gif)
+![](https://github.com/thudgin13/HiddenJam/blob/main/public/hidden-jam-demo.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
